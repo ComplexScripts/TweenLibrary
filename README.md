@@ -19,7 +19,18 @@ TweenTextSize | Tweens the size of the text | Lib.TweenTextSize(obj, 20, 3)
 TweenTP | Tweens the transparency of the text | Lib.TweenTP(obj, 0.3, 4)
 TweenUICorner | Tweens the offset of the UICorner | Lib.TweenUICorner(obj, 150, 2)
 ___
+**How to use this library**
+___
+*1. Create your ScreenGui and Frame.*
 
+*2. Create a ModuleScript and a LocalScript.*
+
+*3. Add the code given here to the ModuleScript => [Link](https://github.com/ComplexScripts/TweenLibrary/blob/main/library.lua).*
+
+*4. Add the following code to the LocalScript: local Lib = require(script.Parent.ModuleScript)*
+
+*5. After all that, enjoy using the Tween Library! :)*
+___
 We will be adding more when possible or when we think of new ideas!
 
 From Complex & Spong :)
