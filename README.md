@@ -31,7 +31,6 @@ ___
 
 *5. After all that, enjoy using the Tween Library! :)*
 ___
-We will be adding more when possible or when we think of new ideas!
 
 From Complex & Spong :)
 
