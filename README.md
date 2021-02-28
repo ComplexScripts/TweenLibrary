@@ -35,5 +35,5 @@ We will be adding more when possible or when we think of new ideas!
 
 From Complex & Spong :)
 
-![](https://cdn.discordapp.com/attachments/753019137638269040/815431627308007424/754076b3aee222716b413a6196b992.png)
+![](https://cdn.discordapp.com/attachments/753019137638269040/815432283896676352/pfp1.png)
 ![](https://cdn.discordapp.com/attachments/753019137638269040/815431741958783027/68747470733a2f2f63646e2e646973.png)
