@@ -17,7 +17,7 @@ TweenBorderColor | Tweens the size of the border of the GuiObject | Lib.TweenBor
 TextAnim | Automatically types in text (typewriter effect) | Lib.TextAnim(obj, "Hello there!", 3)
 TweenTextSize | Tweens the size of the text | Lib.TweenTextSize(obj, 20, 3)
 TweenTP | Tweens the transparency of the text | Lib.TweenTP(obj, 0.3, 4)
-TweenUICorner | Tweens the offset of the UICorner | Lib.TweenUICorner(obj, 150, 2)
+TweenUICorner | Tweens the offset of the UICorner | Lib.TweenUICorner(obj, 150, Enum.EasingStyle.Sine, Enum.EasingDirection.Out, 2)
 ___
 **How to use this library**
 ___
@@ -35,5 +35,5 @@ We will be adding more when possible or when we think of new ideas!
 
 From Complex & Spong :)
 
-![](https://cdn.discordapp.com/avatars/681703297786314754/dfdc6f8bd2cc8ccbfffed9e721540bb1.png?size=256)
-![](https://cdn.discordapp.com/avatars/409152449824292864/8d6084f733126ae3e972a7f6c1bc350d.png?size=256)
+![](https://cdn.discordapp.com/attachments/753019137638269040/815431627308007424/754076b3aee222716b413a6196b992.png)
+![](https://cdn.discordapp.com/attachments/753019137638269040/815431741958783027/68747470733a2f2f63646e2e646973.png)
